@@ -1,0 +1,19 @@
+.header {
+  text-align: center;
+}
+img {
+  display: block;
+  max-width:95px;;
+  max-height:90px;
+  width: auto;
+  height: auto;
+}
+
+footer{   
+    padding: "20px";
+    position: "fixed";
+    left: "0";
+    bottom: "0";
+    height: "60px";
+    width: "100%";
+};
